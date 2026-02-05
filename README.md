@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🔧 I’m currently working on<br>Building real-world projects using JavaScript, React/Redux, Python, HTML/CSS, focusing on problem-solving, system logic, and practical implementations like route optimization, monitoring tools, trackers, and ML-based projects.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects related to web development, backend systems, optimization algorithms, and Python-based applications.<br><br>🆘 I’m looking for help with<br>Improving scalable backend design, writing cleaner production-ready code, and learning best practices used in real industry projects.<br><br>🌱 I’m currently learning<br>Advanced Data Structures & Algorithms, backend development, and strengthening my understanding of system design and problem solving through hands-on projects.<br><br>💬 Ask me about<br>C++ / DSA, binary search & optimization problems, JavaScript projects, Python basics, or how to start building projects from scratch.<br><br>⚡ Fun fact<br>I believe consistent small commits > big one-time efforts, and I enjoy turning ideas into working projects.
+👋 About Me<br><br>🔧 I’m currently working on<br>Building real-world projects using JavaScript, React/Redux, Python, HTML/CSS, focusing on problem-solving, system logic, and practical implementations like route optimization, monitoring tools, trackers, and ML-based projects.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects related to web development, backend systems, optimization algorithms, and Python-based applications.<br><br>🆘 I’m looking for help with<br>Improving scalable backend design, writing cleaner production-ready code, and learning best practices used in real industry projects.<br><br>🌱 I’m currently learning<br>Advanced Data Structures & Algorithms, backend development, and strengthening my understanding of system design and problem solving through hands-on projects.<br><br>💬 Ask me about<br>C++ / DSA, optimization problems, JavaScript projects, React js, Python, or how to start building projects from scratch.<br><br>⚡ Fun fact<br>I believe consistent small commits > big one-time efforts, and I enjoy turning ideas into working projects.
 
 
 ## 🌐 Socials:
@@ -16,3 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=riteshkumar800&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
